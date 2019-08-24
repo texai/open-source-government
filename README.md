@@ -24,6 +24,12 @@ Ideas to debate:
  Call for PRs:
   - Please, help me to build this, if you really want a beter world for the next generation
 
+Software Department / Ministerio:
+  Teams:
+  - gov.xx          - 
+  - data.gov.*      - Public all public registries in HTML and via API
+  - colabora.gov.*  - 
+
 
 If you belive that goverments systems can be improved drammatically by using technologies and an open source & lean thinking, please support us by:
   - Feel free to clon, colaborate, commit and PR.
